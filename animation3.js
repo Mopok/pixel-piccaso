@@ -1,5 +1,5 @@
 var canvas = document.createElement('canvas');
-var canvasWidth = canvas.width = 500;
+var canvasWidth = canvas.width = 501;
 var canvasHeight = canvas.height = 500;
 var ctx = canvas.getContext('2d');
 var id = 100000;
